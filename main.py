@@ -1,7 +1,6 @@
 print("Welcome to the GREAT DIVIDER", "\nNow enter a couple of numbers")
 
 try:
-
     num1 = int(input("Enter a number: "))
     num2 = int(input("Enter another number: "))
     div = num1 / num2
