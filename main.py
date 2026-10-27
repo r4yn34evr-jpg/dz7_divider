@@ -7,7 +7,6 @@ try:
 
 except ZeroDivisionError:
     print('You can\'t divide by zero')
-
 except ValueError:
     print("Value Error")
 
